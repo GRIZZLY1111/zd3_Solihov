@@ -1,0 +1,10 @@
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\bin\Debug\zd3_Solihov.exe.config
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\bin\Debug\zd3_Solihov.exe
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\bin\Debug\zd3_Solihov.pdb
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.csproj.AssemblyReference.cache
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.Form1.resources
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.Properties.Resources.resources
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.csproj.GenerateResource.cache
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.csproj.CoreCompileInputs.cache
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.exe
+C:\Солихов ПР-21\zd3_Solihov\zd3_Solihov\obj\Debug\zd3_Solihov.pdb
