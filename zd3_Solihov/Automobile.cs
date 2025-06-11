@@ -8,7 +8,7 @@ namespace zd3_Solihov
 {
     public class Automobile : Car
     {
-        // Поле P: год выпуска
+        // Год выпуска
         public int ReleaseYear { get; set; } 
         // Текущий год
         public int CurrentYear { get; set; } 
@@ -23,12 +23,12 @@ namespace zd3_Solihov
             ID = id;
         }
 
-        // Новое качество
+        //Метод на улучшенное качество
         public override double CalculateQuality()
         {
             return base.CalculateQuality() * 1.15 * ReleaseYear;
         }
-        // Новое качество
+        //Возраст машины
         public int GetAge()
         {
             return CurrentYear-ReleaseYear;
